@@ -87,7 +87,7 @@ while True:
 
                 l, _, _ = detector.findDistance(index_finger[:2], middle_finger[:2], img)
                 current_time = time.time()
-                if l < 40 and current_time - last_click_time > 0.5:
+                if l < 45 and current_time - last_click_time > 0.4:
                     last_click_time = current_time
                     if button.text == "⌫":
                         finalText = finalText[:-1]
