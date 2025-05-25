@@ -72,13 +72,13 @@ Final
 
 ## ⌨️ Controls
 
-| Key     | Description                    |
-|---------|--------------------------------|
-| A–Z     | Type characters                |
-| ⌫       | Backspace (delete character)   |
-| ENTER   | New line                       |
-| SHIFT   | Toggle uppercase/lowercase     |
-| SPACE   | Insert space                   |
-| `q`     | Quit the application           |
+| Key          | Description                    |
+|--------------|--------------------------------|
+| A–Z          | Type characters                |
+| ⌫           | Backspace (delete character)   |
+| ENTER        | New line                       |
+| SHIFT        | Toggle uppercase/lowercase     |
+| SPACE        | Insert space                   |
+| `Ctrl+C`     | Quit the application           |
 
 ---
